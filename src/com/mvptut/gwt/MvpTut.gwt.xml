@@ -3,5 +3,6 @@
 <module rename-to="MvpTut">
 	<inherits name="com.google.gwt.user.User" />
 	<source path="client" />
+	<source path="shared" />
 	<entry-point class="com.mvptut.gwt.client.MvpTut" />
 </module>
